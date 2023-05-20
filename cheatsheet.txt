@@ -1,0 +1,4 @@
+git log --onelien -> Permite ver si estoy en master o main y los archivos mas bonitos
+git branch nombreRama -> crea una Rama 
+git checkout nombreRama -> nos posicionamos dentro de esa Rama
+git add . añade los archivos nuevo o editados
