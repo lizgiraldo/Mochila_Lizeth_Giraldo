@@ -1,0 +1,3 @@
+Link encap:Ethernet  HWaddr 08:00:27:d4:4a:a7  
+          inet addr:10.0.2.15  Bcast:10.0.2.255  Mask:255.255.255.0
+
